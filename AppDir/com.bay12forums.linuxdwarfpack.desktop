@@ -3,6 +3,6 @@ Type=Application
 Name=Dwarf Fortress
 Categories=Game;
 Icon=linux-dwarf-pack
-Exec=linux-dwarf-pack.sh
+Exec=dwarfort
 StartupWMClass=dwarfort
 Terminal=false
