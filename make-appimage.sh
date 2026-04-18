@@ -13,7 +13,7 @@ export DESKTOP=/usr/share/applications/dwarffortress.desktop
 export DEPLOY_OPENGL=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/dwarffortress
+quick-sharun /usr/bin/dwarffortress /opt/dwarffortress
 
 # Additional changes can be done in between here
 
