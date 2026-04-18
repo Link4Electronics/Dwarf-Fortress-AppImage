@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Dwarf Fortress
+Categories=Game;
+Icon=linux-dwarf-pack
+Exec=linux-dwarf-pack.sh
+Terminal=false
