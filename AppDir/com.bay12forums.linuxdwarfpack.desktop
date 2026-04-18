@@ -4,5 +4,5 @@ Name=Dwarf Fortress
 Categories=Game;
 Icon=linux-dwarf-pack
 Exec=linux-dwarf-pack.sh
-StartupWMClass=
+StartupWMClass=dwarfort
 Terminal=false
