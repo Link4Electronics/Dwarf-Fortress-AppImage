@@ -12,7 +12,7 @@ export ICON=/usr/share/pixmaps/dwarffortress.png
 export DEPLOY_OPENGL=1
 
 # Deploy dependencies
-quick-sharun /opt/dwarffortress/dwarfort /opt/dwarffortress
+quick-sharun /opt/dwarffortress
 
 # Additional changes can be done in between here
 
