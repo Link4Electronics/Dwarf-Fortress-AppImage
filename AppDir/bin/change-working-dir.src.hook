@@ -1,4 +1,5 @@
 #!/bin/sh
-dir=$DATADIR/dwarffortress
+dir="$DATADIR/Bay 12 Games/Dwarf Fortress"
 mkdir -p "$dir"
-#cd "$dir"
+
+cd "$dir"
