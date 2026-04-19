@@ -2,7 +2,7 @@
 Name=Dwarf Fortress
 GenericName=Dwarf Fortress
 Comment=A single-player fantasy game.
-Exec=dwarffortress
+Exec=dwarfort
 Icon=dwarffortress
 StartupWMClass=dwarfort
 Terminal=false
