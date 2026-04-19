@@ -15,6 +15,7 @@ export DEPLOY_OPENGL=1
 quick-sharun /opt/dwarffortress
 
 # Additional changes can be done in between here
+mv -v /opt/dwarffortress/data ./AppDir/bin
 
 # Turn AppDir into AppImage
 quick-sharun --make-appimage
