@@ -13,7 +13,7 @@
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/Dwarf-Fortress-AppImage/releases/latest) | [Click here](https://bay12games.com/dwarves/) |
+| [Click here](https://github.com/pkgforge-dev/Dwarf-Fortress-AppImage/releases/latest) | [Click here](https://bay12games.com/dwarves) |
 
 </div>
 
